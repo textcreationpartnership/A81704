@@ -1,0 +1,588 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A seasonable caution. From the north to the south. / By A plain countrey man ...</title>
+            <author>G. D.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81704</idno>
+            <idno type="STC">Wing D20B</idno>
+            <idno type="STC">ESTC R171670</idno>
+            <idno type="EEBO-CITATION">45789266</idno>
+            <idno type="OCLC">ocm 45789266</idno>
+            <idno type="VID">172577</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81704)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172577)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2639:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A seasonable caution. From the north to the south. / By A plain countrey man ...</title>
+                  <author>G. D.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1682]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: ... 1682. G.D.</note>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in: Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian poetry, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:172577:1" rendition="simple:additions"/>
+            <head>A Seaſonable Caution, FROM The <hi>North</hi> to the <hi>South<g ref="char:punc">▪</g>
+               </hi> BY</head>
+            <p>A Plain Countrey Man, Inhabiting amongſt the <hi>Northern</hi> Hills, from whence the Lord ſent forth many of his Servants into the Nation, with the Meſſage of the Goſpel, in our Day, whoſe Going Forth was as the Morning, their Light ſpringing forth as the Day who hath Lived to ſee the Finiſhing and Diſſolution of many of them, and the Vail of Darkneſs and Apoſtacy coming on again, as the Practice and Deport<g ref="char:EOLhyphen"/>ment of many, in divers Publick Meetings in ſeveral Parts of this Nation (Who have contended for Form) have ſufficiently demonſtrated, contrary to the Practice of the True Church in her Purity.</p>
+            <p>The Conſideration of which drew him to write theſe following Lines, though in a plain and ſimple Stile, being moſt agreeable to his Capacity, and not in<g ref="char:EOLhyphen"/>conſiſtant with Truth.</p>
+            <p>Deſiring the Reader to obſerve, when he ſpeaks of the <hi>Churche's Apoſtacy;</hi> that he means, of that <hi>Ruling,</hi> or rather <hi>Over-Ruling Party,</hi> with their Proſe<g ref="char:EOLhyphen"/>lites, who call themſelves, <hi>The Church,</hi> that have Judged the Faithful to God, out of Unity, the True Church underſtanding no cauſe for ſuch a <hi>Cenſure,</hi> except they want ſubmitting Friends Affairs to their written Rules: which I take to be a Mark of <hi>Apoſtacy.</hi>
+            </p>
+            <lg>
+               <l>Gods Great Appearance broke forth in our Day,</l>
+               <l>Whoſe Meſſengers to this Effect did ſay;</l>
+            </lg>
+            <q>
+               <lg>
+                  <l>A Witneſs in each Conſcience God did place</l>
+                  <l>By the Inſhinings of his Light and Grace,</l>
+                  <l>Did ſhew to each one, when they went aſtray</l>
+                  <l>Which if obey'd, would lead them in the way</l>
+                  <l>Of Life Eternal, which ſhould never dye,</l>
+                  <l>In which, all's Happy to Eternity.</l>
+                  <l>But if againſt this Light we did Rebel,</l>
+                  <l>Horror of Conſcience &amp; the Pangs of Hell</l>
+                  <l>Would ſeize our Souls, and heavy on us lye,</l>
+                  <l>And be our torment to Eternity.</l>
+                  <l>Thus hath the Lord laid open to each view,</l>
+                  <l>And th'Way of Life &amp; Death unto all ſhew</l>
+                  <l>Wherein his Justice greatly doth appear,</l>
+                  <l>And when he comes to Judgment, will be clear</l>
+                  <l>And each one's Blood required at their own hands,</l>
+                  <l>Who having Knowledge, and broke his Commands.</l>
+                  <l>But this hath been a Miſtery</l>
+                  <l>Through Ages, in Apoſtacy.</l>
+                  <l>But th' Night of Darkneſs nearly ſpent,</l>
+                  <l>His Meſſengers with's Word he ſent,</l>
+                  <pb n="2" facs="tcp:172577:2"/>
+                  <l>That God his Will to Man imparts</l>
+                  <l>By's Light in ſecret of their hearts;</l>
+                  <l>Touching Gods Worſhip they inform</l>
+                  <l>In Spirit and Truth we muſt perform;</l>
+                  <l>All fain'd, form'd Worſhip here muſt fall,</l>
+                  <l>Inventions, which ſome, Worſhip call.</l>
+                  <l>Thus Goſpel-Trumpeters he ſent</l>
+                  <l>Out of the North, which Clouds did rent,</l>
+                  <l>And by their Trumpets certain ſound,</l>
+                  <l>Many awaked which lay bound</l>
+                  <l>I'th Grave of Sin, to Glorifie</l>
+                  <l>His Omnipotent Majeſty:</l>
+                  <l>So powerful was this Voice and Call,</l>
+                  <l>Terror on Young and Old did fall;</l>
+                  <l>And when his Preſence did appear,</l>
+                  <l>Faces turn'd pale, hearts ſtruck with fear.</l>
+                  <l>This dreadful and yet joyful Sound,</l>
+                  <l>Did through theſe <hi>Britiſh</hi> Iſles abound:</l>
+                  <l>Many to ſeek God then inclin'd,</l>
+                  <l>That knew not th' Light in Darkneſs ſhin'd</l>
+                  <l>This Pearl lay hid long under ground,</l>
+                  <l>Though ſought for, yet by few was ſound;</l>
+                  <l>But in the Lords appointed Time,</l>
+                  <l>The Light out of Darkneſs did ſhine,</l>
+                  <l>And then out of Obſcurity</l>
+                  <l>Break forth with great Celerity;</l>
+                  <l>And when the Darkneſs thus declin'd,</l>
+                  <l>Son 'mongſt the Northern hills did ſhine,</l>
+                  <l>And in ſuch ſplendor to behold,</l>
+                  <l>The Fame thereof i'th South was told;</l>
+                  <l>Whoſe Riſing was to Admiration,</l>
+                  <l>Which was confirmed through this Nation,</l>
+                  <l>From which Illuminating Rays,</l>
+                  <l>Both <hi>North</hi> &amp; <hi>South</hi> his Name may praiſe.</l>
+                  <l>Then <hi>Reformation</hi> did begin,</l>
+                  <l>And th' New Creation known within,</l>
+                  <l>Then of New Heavens &amp; Earth could tell</l>
+                  <l>Where Truth and Righteouſneſs do dwell:</l>
+                  <l>The Deſerts then came for to yield</l>
+                  <l>More Plenty than the Fruitful Field.</l>
+                  <l>God in his Servants by his Word,</l>
+                  <l>Wrought this effect, which thus occur'd;</l>
+                  <l>Being with Righteous Armour clad,</l>
+                  <l>And Goſpel-Preparation ſhod,</l>
+                  <l>Whoſe Veſſels he did Sanctifie,</l>
+                  <l>That they his Name might Glorifie;</l>
+                  <l>He chooſed the plainer ſort of Men,</l>
+                  <l>Which he prepar'd for's Preachers then,</l>
+                  <l>Who were not Learn'd Rabinical,</l>
+                  <l>Yet taught of him who did them call:</l>
+                  <l>Some Call<g ref="char:punc">▪</g>d from Wife, and Children ſmall,</l>
+                  <l>Who in Obedience gave up all;</l>
+                  <l>And in the Faith and Power they went</l>
+                  <l>To unknown Place and Faces ſent,</l>
+                  <l>And th' Saving-Goſpel to them Preach't,</l>
+                  <l>Which in his Name &amp; Power they Teach't,</l>
+                  <l>And through it many a Conſcience Reacht.</l>
+                  <l>Others he Rais'd in younger Years,</l>
+                  <l>Who Faithful Witneſſes appears,</l>
+                  <l>And from their Fathers Houſe did take,</l>
+                  <l>And Skilful Preachers likewiſe make,</l>
+                  <l>For to divide the Word aright,</l>
+                  <l>Who in his Counſel walkt <g ref="char:V">Ʋ</g>pright:</l>
+                  <l>Both Young &amp; Old who kept their Station,</l>
+                  <l>Prophets and Preachers to their Nation:</l>
+                  <l>And what I here do teſtifie,</l>
+                  <l>Both <hi>North</hi> and <hi>South</hi> may verifie.</l>
+                  <l>Their Godly Labours he did bleſs,</l>
+                  <l>
+                     <g ref="char:V">Ʋ</g>nto the Churches great Succeſs;</l>
+                  <l>Who then came Flocking in apace,</l>
+                  <l>Turn'd Inward to Gods Light and Grace;</l>
+                  <l>To which his Servants did direst,</l>
+                  <l>Knowing 'twould Righteouſneſs effect;</l>
+                  <l>In leſs than half an Age of Time</l>
+                  <l>Thouſands did flock to Gods Enſign</l>
+                  <l>Of Light, his Miniſters held out,</l>
+                  <l>Which People gather'd then about:</l>
+                  <l>And in ſhort time our Eyes did ſee</l>
+                  <l>Church-Gather'd numerous to be;</l>
+                  <l>And in more Beauty now appears</l>
+                  <l>Than She had done hundreds of Years;</l>
+                  <l>Her Lights did ſhine, their Lamps did burn</l>
+                  <l>Which ſhew'd her Wilderneſs Return:</l>
+                  <l>So obvious in the World was She,</l>
+                  <pb n="3" facs="tcp:172577:2"/>
+                  <l>Deſcribed then by Innocence,</l>
+                  <l>Adorn'd with Vertuous Ornaments,</l>
+                  <l>Perfum'd with Odoriferous Scents,</l>
+                  <l>That 'twere great Pity that e're She</l>
+                  <l>Again to th' Wilderneſs ſhould flee.</l>
+                  <l>'Twould many a Spirit wound and goar,</l>
+                  <l>Conſidering this Eſtate before,</l>
+                  <l>In this ſame Age and Time to ſee,</l>
+                  <l>Entring again Apoſtacy;</l>
+                  <l>And when that we do call to mind</l>
+                  <l>How Good the Lord hath been, and Kind,</l>
+                  <l>And that in Her Reveal'd hath been</l>
+                  <l>What Good Men wiſht, and have not ſeen:</l>
+                  <l>It reſts upon them as a Seal,</l>
+                  <l>
+                     <hi>That's true to Iſrael's</hi> Commonweale;</l>
+                  <l>Remembring thoſe joyful Days,</l>
+                  <l>Reſembling Years of Jubilees:</l>
+                  <l>When She did keep a Holy Day,</l>
+                  <l>Like as the Sacred Writ doth ſay,</l>
+                  <l>Then from her Labours She doth ceaſe,</l>
+                  <l>Reſting in Him who gave her Peace:</l>
+                  <l>How unto Her did People hye,</l>
+                  <l>As Doves into the Window fly,</l>
+                  <l>Moſt amiable to behold</l>
+                  <l>Flocks Gathered, Reſting in the Fold,</l>
+                  <l>Sweetly in Him taking Repoſe</l>
+                  <l>In Innocence, fearing no Foes,</l>
+                  <l>Nor in the Fold was puſhing any,</l>
+                  <l>Though into it were gathered many,</l>
+                  <l>Which then came flocking far and nigh,</l>
+                  <l>To hear her Wiſdom from on high:</l>
+                  <l>No jarring then there did appear,</l>
+                  <l>Th' Great Shepherd of the Flock was there:</l>
+                  <l>Each one in Peace poſſeſt his Vine,</l>
+                  <l>Her Miniſters amidſt her ſhine,</l>
+                  <l>Which did the Heavenly Image ſhew</l>
+                  <l>Moſt pleaſant in the Church to view:</l>
+                  <l>Many strong Pillars in her stand,</l>
+                  <l>Supported by th' Almighties Hand.</l>
+                  <l>Then in thoſe glorious Goſpel-Rays</l>
+                  <l>Was ſeen on's Throne th' Antient of Days,</l>
+                  <l>And great and little Stars appear,</l>
+                  <l>Shining in order in their Sphere:</l>
+                  <pb n="4" facs="tcp:172577:3"/>
+                  <l>Then in the Church Sincerity,</l>
+                  <l>Was priz'd above Formality;</l>
+                  <l>And Praiſe aſcends as with one Voice,</l>
+                  <l>Together th' Morning Stars rejoyce,</l>
+                  <l>And then in her the Light did ſhine.</l>
+                  <l>Opening deep Miſteries Divine;</l>
+                  <l>Such ſacred things reveal'd hath been,</l>
+                  <l>As Vultrous Eye hath never ſeen,</l>
+                  <l>When I look back for to aſpect,</l>
+                  <l>Theſe Days, my Soul, greatly affect,</l>
+                  <l>My Spirit, they almoſt inſpire,</l>
+                  <l>And on my Altar kindle Fire,</l>
+                  <l>Who knew theſe things, and yet forget,</l>
+                  <l>May for the Kingdom prove unfit.</l>
+                  <l>Then th' Church of Glory wore a Crown,</l>
+                  <l>But now, alas! her Sun goes down;</l>
+                  <l>She in great Splendor then did ſhine,</l>
+                  <l>But now her Beauty doth decline;</l>
+                  <l>Once cloath'd with comly Ornaments,</l>
+                  <l>Diſ-robing now ſends forth ill Scents;</l>
+                  <l>Some that in her as Light ſhin'd clear,</l>
+                  <l>Now growing dim, like Clouds appear:</l>
+                  <l>But wo unto that Man or Place,</l>
+                  <l>That brought upon Chriſts Church, Diſgrace</l>
+                  <l>Better 'tad been, if they, or he</l>
+                  <l>Had ſunk i'th bottom of the Sea.</l>
+                  <l>How happy had She been this day,</l>
+                  <l>If She had kept i'th Antient Way,</l>
+                  <l>Th' Nation for her ſake been bleſt,</l>
+                  <l>And She her Peace in God poſſeſt;</l>
+                  <l>Then had ſhe ſtill wore Glories Crown,</l>
+                  <l>Her Sun had not been going down.</l>
+                  <l>This former Glory is paſt and gone,</l>
+                  <l>And Tyranny i'th Chuch comes on,</l>
+                  <l>When Antient Paſtors moſtly ſleep,</l>
+                  <l>Who into th' Fold gathered the Sheep;</l>
+                  <l>Whoſe ſenſe of loſs of them is deep,</l>
+                  <l>Which cauſe their Flocks in ſecret weep,</l>
+                  <l>When Conſcience muſt to Slavery</l>
+                  <l>Mens Rules Imposed to walk by:</l>
+                  <l>This Faith and Conſcience doth invade,</l>
+                  <l>Which Truth and Reaſon ſhould perſwade;</l>
+                  <pb n="5" facs="tcp:172577:3"/>
+                  <l>When we the Goſpel did receive,</l>
+                  <l>Our Conſcience witneſs to it gave:</l>
+                  <l>Is't Gods, or Mens Way that's chang'd now,</l>
+                  <l>That of this Teſt ſhe'l not allow;</l>
+                  <l>The Truth, it will the Teſt indure,</l>
+                  <l>And th' more it's try'd, appeareth pure;</l>
+                  <l>But I do take it for their Pride,</l>
+                  <l>Who on ambitious Wings do ride,</l>
+                  <l>Who would have Faith pin'd on their Sleeves,</l>
+                  <l>That ſay, <hi>Believe, as th' Church Believes.</hi>
+                  </l>
+                  <l>Yet if they'l right Diſtinctions make,</l>
+                  <l>Wee'l grant it, and for Truth it take;</l>
+                  <l>But if She'l make Laws, and compel,</l>
+                  <l>And out of her all ſuch expel,</l>
+                  <l>And caſt out of her <g ref="char:V">Ʋ</g>nity</l>
+                  <l>Who with her Rules can't comply,</l>
+                  <l>As ſuch, in Her we cannot believe,</l>
+                  <l>Nor pin our Faith upon Her Sleeve.</l>
+                  <l>But in this Practice Sbe hath been,</l>
+                  <l>Our Ears have heard, and Eyes have ſeen:</l>
+                  <l>Therefore let none offended be,</l>
+                  <l>We ſay, <hi>This is Apoſtacy.</hi>
+                  </l>
+                  <l>Will ſhe preſcribe a Form wherein he muſt remain,</l>
+                  <l>That th' Heaven of Heavens of old could not con<g ref="char:EOLhyphen"/>tain?</l>
+                  <l>No ſuch Commiſſion yet we have,</l>
+                  <l>Obeying Her, <hi>New Laws</hi> can ſave.</l>
+                  <l>And ſince theſe things i'th Church took place</l>
+                  <l>Dayly on her hath come diſgrace;</l>
+                  <l>And greatly there is cauſe to fear</l>
+                  <l>The <hi>Wolves</hi> again the Flock may tear.</l>
+                  <l>Her late Procedur's not the way</l>
+                  <l>That the Flocks into the Fold did draw,</l>
+                  <l>Nor like his Voice, nor like his Call,</l>
+                  <l>Who is great Shepherd over all.</l>
+                  <l>Th' Pretended Church uſurping Power,</l>
+                  <l>Gives Satan advantage to devour:</l>
+                  <l>Drawing from the Life of Reſtoration,</l>
+                  <l>To practice Excommunication</l>
+                  <l>Of thoſe who do true witneſs bear</l>
+                  <l>
+                     <g ref="char:V">Ʋ</g>nto the Truth of God in Fear;</l>
+                  <l>This is not the Spirit which is free,</l>
+                  <l>Ordain'd for Captives Liberty;</l>
+                  <pb n="6" facs="tcp:172577:4"/>
+                  <l>Who have Gods Meſſengers Rejected,</l>
+                  <l>They and their Meſſage diſreſpected,</l>
+                  <l>And ſowing of Diviſions Seed,</l>
+                  <l>Have made the Churches ſorely bleed;</l>
+                  <l>'Tis they that brought her to this State,</l>
+                  <l>That Brethren Excommunicate:</l>
+                  <l>By Innocence how is ſhe known,</l>
+                  <l>Whoſe Practice hath ſuch Rigor ſhown,</l>
+                  <l>And yet can give no reaſon why,</l>
+                  <l>But Her Preſcriptions not walkt by;</l>
+                  <l>And this hath caus'd Her thus to Rage,</l>
+                  <l>Like as ſome did in former Age:</l>
+                  <l>Mother Ignorance, though old, I fear</l>
+                  <l>May yet Conceive, and Children Bear:</l>
+                  <l>But yet I hope there thouſands be,</l>
+                  <l>That ſerve God in Sincerity,</l>
+                  <l>What e're Aſſemblies may decree,</l>
+                  <l>Can to Inventions how no Knee,</l>
+                  <l>Whoſe Faith and Hope in God doth ſtand,</l>
+                  <l>Fears not Excommunications Brand:</l>
+                  <l>But looking back, ſtill think upon</l>
+                  <l>The Glory of thoſe Days are gone,</l>
+                  <l>Compared with theſe preſent Times,</l>
+                  <l>Might cauſe my Pen write penſive Lines,</l>
+                  <l>When thoſe who had th' Goſpel to preach,</l>
+                  <l>Have not been ſuffered it to teach.</l>
+                  <l>This often ſoundeth in my ear,</l>
+                  <l>That Famine of the Word draws near,</l>
+                  <l>The greateſt Judgment that can fall</l>
+                  <l>
+                     <g ref="char:V">Ʋ</g>pon a Poople, Great or Small.</l>
+                  <l>Then ſuch too late may call to mind,</l>
+                  <l>How to Gods Servants they were unkind;</l>
+                  <l>And ſince to them they lend no ear,</l>
+                  <l>They from the Lord no word may hear,</l>
+                  <l>And this there is more cauſe to fear</l>
+                  <l>Than the ſharp ſmiting Sword or Spear.</l>
+                  <l>And for to ſee the Churches Rent,</l>
+                  <l>In gathering which many were ſpent.</l>
+                  <l>This is none of the meaneſt Crimes,</l>
+                  <l>As may be known in future Times,</l>
+                  <l>And Children unborn may weep,</l>
+                  <l>When the Goſpel Planters fall aſleep;</l>
+                  <pb n="7" facs="tcp:172577:4"/>
+                  <l>If in this Land Chriſt be not found,</l>
+                  <l>Nor to be heard the Goſpel Sound,</l>
+                  <l>Then doubtleſs woful Days come on,</l>
+                  <l>When once the Goſpel Sound is gone,</l>
+                  <l>People may wander far and nigh,</l>
+                  <l>And Springs, Fountains, ſhall be dry,</l>
+                  <l>Then withered ſhall be their Goard,</l>
+                  <l>When ther's a Famine of the Word:</l>
+                  <l>But God deliver us, I pray,</l>
+                  <l>We never ſee this woful Day:</l>
+                  <l>A wounded Spirit would us grieve,</l>
+                  <l>When there is no one to Believe.</l>
+                  <l>Sad Symptoms of theſe things appear,</l>
+                  <l>This Judgment may be drawing near;</l>
+                  <l>When as the Church ſo buſie be,</l>
+                  <l>To Compel to Conformity:</l>
+                  <l>When written Rules muſt be our Guide,</l>
+                  <l>Which th' Spirits Leadance lays aſide:</l>
+                  <l>And when Church Orders muſt take place,</l>
+                  <l>Above the Inward Truth and Grace:</l>
+                  <l>Elſe to what end do they decree</l>
+                  <l>To ſentence out of <g ref="char:V">Ʋ</g>nity,</l>
+                  <l>Only for Non-conformity:</l>
+                  <l>Forcing to Practice (is blind Zeal)</l>
+                  <l>That which the Lord doth not Reveal:</l>
+                  <l>Her Practice ſhews if ſhe had Power,</l>
+                  <l>She'd force her Cup like to the Whore:</l>
+                  <l>Then from the greatest to the Leaſt,</l>
+                  <l>None buys nor ſells, but th' Mark o'th Beaſt</l>
+                  <l>Yet's hop'd there's many would not ſup</l>
+                  <l>Of the Abomination Cup;</l>
+                  <l>But ſuch Procedure may procure</l>
+                  <l>True Church for to remain obſcure:</l>
+                  <l>The Whore would then great painting make,</l>
+                  <l>And for the Spouſe her ſelf will take,</l>
+                  <l>And many by her be miſled,</l>
+                  <l>True Church to th' Wilderneſs being fled:</l>
+                  <l>Theſe things theſe Times too much concern,</l>
+                  <l>Although ſome may againſt it ſpurn,</l>
+                  <l>Yet I their Cenſures do not fear,</l>
+                  <l>Nor frowning Countenance auſtere:</l>
+                  <l>All Judgment to the Son commit,</l>
+                  <l>Who Judge of Quick and Dead ſhall ſit.</l>
+                  <l>Further 'tis in my Mind to ſay,</l>
+                  <l>And witneſs bear to the antient way,</l>
+                  <l>The Light of th' Sun which God had ſent,</l>
+                  <l>Did and doth Summon to Repent;</l>
+                  <l>No other way he hath made known,</l>
+                  <l>Which leadeth to Salvation,</l>
+                  <l>Subjection to this Light within,</l>
+                  <l>True Reformation doth begin;</l>
+                  <l>It calletb for Sincerity,</l>
+                  <l>And to walk in Integrity,</l>
+                  <l>To ſerve God with an <g ref="char:V">Ʋ</g>pright Heart,</l>
+                  <l>And from each evil way depart;</l>
+                  <l>This is that Antient Way and Path,</l>
+                  <l>Through Ages walkt the Righteous hath;</l>
+                  <l>And yet the New and Living Way</l>
+                  <l>God hath revealed in our Day;</l>
+                  <l>No Devil into this Transform,</l>
+                  <l>Though call i'th Church for <g ref="char:V">Ʋ</g>niform,</l>
+                  <l>Into Impos'd Formality</l>
+                  <l>May enter greatest Hypocriſy,</l>
+                  <l>And into Ceremonial Rites</l>
+                  <l>May enter greatest Hypocrites;</l>
+                  <l>But into th' Light and Grace within,</l>
+                  <l>Hypocriſy ne're enters in:</l>
+                  <l>No Outward Forms preſerib'd can ſave,</l>
+                  <l>Nor Ranſome any from the Grave;</l>
+                  <l>Therefore there ought great care to be,</l>
+                  <l>To what is preſt-Conformity:</l>
+                  <l>Conformity avails no whit,</l>
+                  <l>But to the Mind of Christ ſubmit:</l>
+                  <l>Grant this, why is their laid ſuch streſs</l>
+                  <l>On Outward Rules, Conſcience to preſs<g ref="char:punc">▪</g>
+                  </l>
+                  <l>If not obey'd, then out they cry,</l>
+                  <l>Th' Church with you hath no Unity.</l>
+                  <l>It is a weakly <g ref="char:V">Ʋ</g>nity</l>
+                  <l>That conſiſts in Conformity,</l>
+                  <l>Stronger's the Bond, Surer's, the Tye,</l>
+                  <l>Where Truth is Cords of <g ref="char:V">Ʋ</g>nity;</l>
+                  <l>Gathered Aſſemblies underſtand</l>
+                  <l>Conſcience's not bound to your Command,</l>
+                  <l>Neither to you doth appertain</l>
+                  <l>To Compel Conſcience, or Restrain</l>
+                  <pb n="8" facs="tcp:172577:5" rendition="simple:additions"/>
+                  <l>In point of Worſhip it is not fit</l>
+                  <l>Mens Rules decreed ſhould govern it;</l>
+                  <l>It appertains to God on high,</l>
+                  <l>Who Rules on Earth and above the Sky.</l>
+                  <l>Conſcience it is a Receptacle</l>
+                  <l>What God to Man doth preach,</l>
+                  <l>And in Man, that's his Tabernacle,</l>
+                  <l>Who his Statutes doth teach.</l>
+                  <l>Therefore who doth this Place aſſume,</l>
+                  <l>They are <g ref="char:V">Ʋ</g>ſurpers and preſume</l>
+                  <l>His Throne for to aſcend,</l>
+                  <l>And greatly God offend,</l>
+                  <l>Who through his Spirit of Truth &amp; Grace,</l>
+                  <l>For himſelf ſanctifies this Place.</l>
+                  <l>This I would add e're I give o're,</l>
+                  <l>Not knowing where I may write more;</l>
+                  <l>For Time ſeems ſhort alotted here,</l>
+                  <l>When we be gone, and diſappear;</l>
+                  <l>Gods Servants do haste off the Stage,</l>
+                  <l>The Lord ſeems to cut ſhort this Age;</l>
+                  <l>Though he by them great things hath done,</l>
+                  <l>Their Time was ſwift, as Poſts that run,</l>
+                  <l>Whoſe Courſe ſeem'd Run before ripe Age,</l>
+                  <l>Which ſomething may to us preſage,</l>
+                  <l>Though as a Secret it be ſeal'd</l>
+                  <l>From all but to whom God Reveal't:</l>
+                  <l>Many who have the Vineyard dreſt,</l>
+                  <l>Now in the Fathers boſome reſt:</l>
+                  <l>And from their Labours now do ceaſe,</l>
+                  <l>In full Enjoyment of Heavens Peace;</l>
+                  <l>And laſting Joys, which never fail,</l>
+                  <l>Whil'ſt we their Abſence here bewail:</l>
+                  <l>But their bleſt Memory makes us glad,</l>
+                  <l>Mixing our Joys with Sorrows ſad.</l>
+                  <l>And that which further ſatisfie,</l>
+                  <l>Death could not break our <g ref="char:V">Ʋ</g>nity.</l>
+                  <l>And when our Pilgrimage is at an end,</l>
+                  <l>Hope to partake with them, Joys that tran<g ref="char:EOLhyphen"/>ſcend:</l>
+                  <l>And in the interim do caſt in this Mite,</l>
+                  <l>Them to make known to future age delight.</l>
+                  <l>Heavenly was their Society,</l>
+                  <l>Great Patterns of Piety,</l>
+                  <l>Meeting together to converſe,</l>
+                  <l>Would many heavenly things rehearſe,</l>
+                  <l>Making deep Miſteries appear</l>
+                  <l>
+                     <g ref="char:V">Ʋ</g>nto our <g ref="char:V">Ʋ</g>nderſtandings clear,</l>
+                  <l>Opening to us the Heavenly way,</l>
+                  <l>Clear as the Light is at Noon Day.</l>
+                  <l>Twas no ſmall Mercy, may we ſay,</l>
+                  <l>That we were brought forth in their Day,</l>
+                  <l>Nor the leaſt Mercy that we ſee,</l>
+                  <l>A Remnant of this Stock yet be,</l>
+                  <l>Who th' Goſpel Truth do ſtill aver,</l>
+                  <l>And from the Antient Path not err:</l>
+                  <l>In contemplation of this deep,</l>
+                  <l>Both Heart rejoyce, and Eyes do weep;</l>
+                  <l>And Matter ſtill it doth indite,</l>
+                  <l>'Twere endleſs for my Pen to write,</l>
+                  <l>For that a Depth there doth remain,</l>
+                  <l>Which Tongue nor Pen can ne're explain:</l>
+                  <l>And yet I faint to think upon</l>
+                  <l>Th' danger of th' Flock when they are gone;</l>
+                  <l>Though God is able to ſupply,</l>
+                  <l>If they alone in Caves ſhould lye,</l>
+                  <l>Then on his Graces ſufficience:</l>
+                  <l>Let's all have our Dependence.</l>
+               </lg>
+               <lg>
+                  <l>Here I ſhall reſt and make an end,</l>
+                  <l>And all unto this Grace commend;</l>
+                  <l>Councel that's antient and profound,</l>
+                  <l>And through this Nation once did ſound.</l>
+               </lg>
+            </q>
+            <lg>
+               <l>Being inclin'd thus to rehearſe</l>
+               <l>Theſe ſolid Truths in ſimple Verſe,</l>
+               <l>Needing no flouriſhing Elegance,</l>
+               <l>The Subject of it ſelf's, Subſtance.</l>
+            </lg>
+            <closer>
+               <dateline>Wrote in <date>the <hi>10th.</hi> Month, 1682.</date>
+               </dateline>
+               <signed>G. D.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
